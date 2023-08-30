@@ -1,0 +1,58 @@
+[
+    {
+      "id": "p1",
+      "title": "Casco de Motocicleta",
+      "description": "Casco de alta seguridad para motociclistas",
+      "code": "CM001",
+      "price": 129.99,
+      "status": true,
+      "stock": 50,
+      "category": "Cascos",
+      "thumbnails": ["thumbnail1.jpg", "thumbnail2.jpg"]
+    },
+    {
+      "id": "p2",
+      "title": "Guantes de Cuero",
+      "description": "Guantes resistentes de cuero para motociclistas",
+      "code": "GU001",
+      "price": 49.99,
+      "status": true,
+      "stock": 100,
+      "category": "Accesorios",
+      "thumbnails": ["thumbnail3.jpg", "thumbnail4.jpg"]
+    },
+    {
+      "id": "p3",
+      "title": "Aceite para Motor",
+      "description": "Aceite de alto rendimiento para motores de motocicletas",
+      "code": "AC001",
+      "price": 19.99,
+      "status": true,
+      "stock": 200,
+      "category": "Mantenimiento",
+      "thumbnails": ["thumbnail5.jpg", "thumbnail6.jpg"]
+    },
+    {
+      "id": "p4",
+      "title": "Chaqueta de Moto",
+      "description": "Chaqueta de cuero resistente para motociclistas",
+      "code": "CH001",
+      "price": 189.99,
+      "status": true,
+      "stock": 30,
+      "category": "Ropa",
+      "thumbnails": ["thumbnail7.jpg", "thumbnail8.jpg"]
+    },
+    {
+      "id": "p5",
+      "title": "Llantas para Moto",
+      "description": "Juego de llantas de alta tracción para motocicletas",
+      "code": "LL001",
+      "price": 299.99,
+      "status": true,
+      "stock": 15,
+      "category": "Accesorios",
+      "thumbnails": ["thumbnail9.jpg", "thumbnail10.jpg"]
+    }
+  ]
+  
